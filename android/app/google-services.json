@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3994090344",
+    "project_id": "makecheck-c659c",
+    "storage_bucket": "makecheck-c659c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3994090344:android:631e8786f5711b01ceb4dd",
+        "android_client_info": {
+          "package_name": "com.example.makecheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVIPMiZnOjGMnL3ESsUtcNUKzCv9NSBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
